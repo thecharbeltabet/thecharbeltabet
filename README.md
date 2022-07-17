@@ -1,6 +1,6 @@
 <h2 align='left'>Welcome to my github page.</h2>
 <hr>
-<h2><img src="https://media-exp1.licdn.com/dms/image/C4E03AQENuMJgL8-EJQ/profile-displayphoto-shrink_800_800/0/1649850570496?e=1663804800&v=beta&t=2771Ihp9aQ9SoXqB5sqYumhz-2fzt5HyXZa-7yyGWPA" width="30px"></h2>
+<h2><img src="https://media-exp1.licdn.com/dms/image/C4E16AQG-WM6Qfi0RDw/profile-displaybackgroundimage-shrink_350_1400/0/1658097588493?e=1663804800&v=beta&t=xbNno-zlXgDi5tYnLcLcL4DXVqtYUxKrZb6BBQ8MUYs" width="300px"></h2>
 <hr>
 
 ⚡ Currently at EPITA Paris pursuing my MSc. in Software Engineering
@@ -26,6 +26,5 @@ Getting an internship as a Mobile or Web Engineer (dev)
 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecharbeltabet)](https://github.com/anuraghazra/github-readme-stats)
 
 
