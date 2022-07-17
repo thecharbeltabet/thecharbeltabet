@@ -5,11 +5,11 @@
 
 ⚡ Currently at EPITA Paris pursuing my MSc. in Software Engineering
 
-- 📫 How to reach me: 
+- 📫 How to reach me?
  You can send me an email or a message on LinkedIn 
 
-- 🔭 I’m currently working on:
- Getting an internship as a Mobile or Web Engineer (dev)
+- 🔭 I’m currently working on
+ getting an internship as a Mobile or Web Engineer (dev)
 
 
 
