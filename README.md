@@ -1,6 +1,6 @@
 <h2 align='left'>Welcome to Charbel's Github Page</h2>
 <hr>
-<h2><img src="https://media-exp1.licdn.com/dms/image/C4E16AQG-WM6Qfi0RDw/profile-displaybackgroundimage-shrink_350_1400/0/1658097588493?e=1663804800&v=beta&t=xbNno-zlXgDi5tYnLcLcL4DXVqtYUxKrZb6BBQ8MUYs" width="550px" height="150px"></h2>
+<h2><img src="https://i.pinimg.com/originals/30/2b/f8/302bf8c7124220acc03e17fbaaf3c47b.jpg" width="550px" height="150px"></h2>
 <hr>
 
 ⚡ Currently at EPITA Paris pursuing my MSc. in Software Engineering
